@@ -1,8 +1,0 @@
-# licensed / personal data
-*.pdf
-medical_db/
-mistral_models/
-
-# credentials
-config.json
-.env
